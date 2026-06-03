@@ -1,0 +1,22 @@
+{
+  "id": "prvsiyan/baseline-lost-interpreter-aicc-round-5",
+  "title": "Baseline - Lost Interpreter | AICC Round 5",
+  "code_file": "baseline-lost-interpreter-aicc-round-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "aicc",
+    "baseline",
+    "interpreter"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "lost-interpreter-aicc-round-5"
+  ],
+  "model_sources": []
+}
