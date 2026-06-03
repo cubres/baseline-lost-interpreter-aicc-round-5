@@ -8,11 +8,7 @@
   "enable_gpu": false,
   "enable_tpu": false,
   "enable_internet": false,
-  "keywords": [
-    "aicc",
-    "baseline",
-    "interpreter"
-  ],
+  "keywords": [],
   "dataset_sources": [],
   "kernel_sources": [],
   "competition_sources": [
